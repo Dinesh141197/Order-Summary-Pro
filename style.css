@@ -22,7 +22,7 @@ body {
 }
 
 .container{
-    background-color: rgb(231, 231, 198);
+    background-color: beige;
     max-width: 340px;
     display: flex;
     flex-direction: column;
